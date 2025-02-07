@@ -3,6 +3,9 @@
 ## 📌 Overview  
 Electric Vehicle (EV) adoption is rapidly increasing, but the availability of charging infrastructure remains a key challenge. This project analyzes the factors influencing EV adoption and charging station deployment using Python-based data analytics.
 
+📚 **This project was completed for academic use as part of MSA 8010: Data Programming* under **Professor Ugur Kursuncu** at **Georgia State University** for the **Master of Science in Analytics (MSA) program**.  
+
+---
 ## 🎯 Objective  
 - Examine **key drivers** of EV adoption trends.  
 - Analyze the **availability and distribution** of charging stations.  
