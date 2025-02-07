@@ -62,3 +62,9 @@ This analysis is based on multiple datasets, including:
 👩‍💻 **Lilly Parham**  
 👩‍💻 **Gracie Rehberg**  
 👩‍💻 **Pamela Alvarado-Zarate** 
+
+📚 **Georgia State University - Master of Science in Analytics**  
+
+---
+### *📌 Note:*  
+This project is for **academic purposes** and is based on public data regarding electric vehicle registrations, demographics, and charging station infrastructure.
